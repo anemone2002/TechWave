@@ -16,3 +16,12 @@ TechWave XR is a web application that introduces and allows users to pre-order t
 - Deployment: GitHub Pages
 
 
+## Screenshots
+![изображение](https://github.com/anemone2002/TechWave/assets/56311452/485f04ad-5639-4335-b2aa-0e1e11c10a33)
+![изображение](https://github.com/anemone2002/TechWave/assets/56311452/f793aaf7-8141-4232-8dbf-9fa393db2788)
+![изображение](https://github.com/anemone2002/TechWave/assets/56311452/77238bf2-51b6-4cd6-ad15-22cd4ec9efd7)
+![изображение](https://github.com/anemone2002/TechWave/assets/56311452/28fc7eb0-ada1-43d9-bf23-47dd4e181f81)
+![изображение](https://github.com/anemone2002/TechWave/assets/56311452/e33f4af8-ee71-4231-9518-5259d8bdf0ff)
+
+https://drive.google.com/file/d/1LgdA90dXhtho2cf39iG-QfKBu2DkCoYo
+
