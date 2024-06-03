@@ -1,0 +1,42 @@
+.contact-container {
+    width: 100%;
+    height: 50vh;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    color:#fff;
+    align-items: center;
+  }
+  
+  .contact-content {
+    
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    max-width: 800px;
+  }
+  
+  .contact-section {
+    text-align: left;
+  }
+  
+  .contact-section h2 {
+    margin-top: 0;
+    font-size: 1.5rem;
+  }
+  
+  .contact-section p {
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .contact-content {
+      flex-direction: column;
+    }
+  }
+  
