@@ -25,3 +25,6 @@ TechWave XR is a web application that introduces and allows users to pre-order t
 
 https://drive.google.com/file/d/1LgdA90dXhtho2cf39iG-QfKBu2DkCoYo
 
+## Deploy
+https://master--bright-pony-820d70.netlify.app/
+
